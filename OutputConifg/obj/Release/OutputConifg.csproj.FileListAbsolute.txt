@@ -1,0 +1,7 @@
+D:\GameDO\OutputConifg\OutputConifg\bin\Release\OutputConifg.exe
+D:\GameDO\OutputConifg\OutputConifg\bin\Release\OutputConifg.pdb
+D:\GameDO\OutputConifg\OutputConifg\obj\Release\OutputConifg.Form1.resources
+D:\GameDO\OutputConifg\OutputConifg\obj\Release\OutputConifg.Properties.Resources.resources
+D:\GameDO\OutputConifg\OutputConifg\obj\Release\OutputConifg.csproj.GenerateResource.Cache
+D:\GameDO\OutputConifg\OutputConifg\obj\Release\OutputConifg.exe
+D:\GameDO\OutputConifg\OutputConifg\obj\Release\OutputConifg.pdb
